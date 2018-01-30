@@ -99,3 +99,13 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# New
+*.sublime-workspace
+*.sublime-project
+*.pyc
+*.pyo
+__pycache__/
+*db.sqlite3
+/media/*
+
